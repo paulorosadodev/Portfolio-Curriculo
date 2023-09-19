@@ -1,0 +1,23 @@
+h2{
+    color: rgb(48, 48, 48);
+    font-family: 'bahnschrift';
+    src:url('font\BAHNSCHRIFT.TTF');
+    font-style:initial;
+}
+
+h1{
+    color: rgb(48, 48, 48);
+    font-size: 45px;
+    font-family: 'calibri';
+    src:url('font\CALIBRI.TTF');
+}
+
+p {
+    font-size: 17px;
+
+}
+
+label {
+    color: rgb(48, 48, 48);
+    font-size: 17px;
+}
