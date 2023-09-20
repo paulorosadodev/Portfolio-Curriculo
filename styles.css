@@ -1,15 +1,15 @@
-h2{
+h2 {
     color: rgb(48, 48, 48);
     font-family: 'bahnschrift';
-    src:url('font\BAHNSCHRIFT.TTF');
-    font-style:initial;
+    src: url('font\BAHNSCHRIFT.TTF');
+    font-style: initial;
 }
 
-h1{
+h1 {
     color: rgb(48, 48, 48);
     font-size: 45px;
     font-family: 'calibri';
-    src:url('font\CALIBRI.TTF');
+    src: url('font\CALIBRI.TTF');
 }
 
 p {
@@ -20,4 +20,33 @@ p {
 label {
     color: rgb(48, 48, 48);
     font-size: 17px;
+    font-weight: bold;
+}
+
+.relative-parent {
+    width: 230px;
+    position: absolute
+}
+
+.relative {
+    width: 220px;
+    position: relative;
+    top: 5px;
+    left: 2px;
+    bottom: 0px;
+    right: 0px;
+}
+
+
+.faculdade {
+    width: 40px;
+    position: relative;
+}
+
+input[type="submit"] {
+    width: 100px;
+    height: 30px;
+    color: rgb(48, 48, 48);
+    font-size: 15px;
+    font-weight: bold;
 }
