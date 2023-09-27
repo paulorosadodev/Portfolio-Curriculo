@@ -2,31 +2,33 @@
     background-image: url("foto.png");
     background-size: cover;
     background-position: center;
+    text-align: center;
 }
 
 
-h2 {
+.h2 {
     color: rgb(48, 48, 48);
     font-family: 'bahnschrift';
     src: url('font\BAHNSCHRIFT.TTF');
     font-style: initial;
+    font-size: 30px;
 }
 
-h1 {
+.h1 {
     color: rgb(48, 48, 48);
     font-size: 45px;
     font-family: 'calibri';
     src: url('font\CALIBRI.TTF');
 }
 
-p {
+.p {
     font-size: 17px;
 
 }
 
 label {
     color: rgb(48, 48, 48);
-    font-size: 17px;
+    font-size: 50px;
     font-weight: bold;
 }
 
@@ -47,13 +49,32 @@ label {
 
 .faculdade {
     width: 40px;
-    position: relative;
 }
 
+
 input[type="submit"] {
-    width: 100px;
+    width: 80px;
     height: 30px;
     color: rgb(48, 48, 48);
     font-size: 15px;
     font-weight: bold;
+    cursor: pointer;
 }
+
+.formu {
+    width: 200px;
+    height: 455px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#mensagem {
+margin-top: 10px
+}
+
