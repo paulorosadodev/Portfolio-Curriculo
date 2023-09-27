@@ -1,7 +1,4 @@
 # Portfolio-Curriculo
 Mini Projeto 1 de HTML - Criar um site que sirva como Portfólio/Currículo para o usuário.
-![image](https://github.com/paulorosadodev/Portfolio-Curriculo/assets/117609505/e951b629-8d76-4b16-b464-551fec04b3ce)
-![image](https://github.com/paulorosadodev/Portfolio-Curriculo/assets/117609505/831eabf8-47ae-42df-88c8-94682cb7178c)
-
-
-
+![image](https://github.com/paulorosadodev/Portfolio-Curriculo/assets/117609505/144866ff-7a9b-4e6f-b718-4f3746ca8f71)
+![image](https://github.com/paulorosadodev/Portfolio-Curriculo/assets/117609505/972be3d7-e780-4e72-84fc-d51bcc2053ed)
